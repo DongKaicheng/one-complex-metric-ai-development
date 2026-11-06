@@ -6,6 +6,16 @@ This repository contains an English account of the AI assistance used in
 developing and revising the mathematical manuscript, together with a
 selected archive of the retained mathematical work.
 
+## Paper
+
+**One complex metric and geometric adelic nefness** (preprint, 2026).
+
+- [Paper PDF](https://github.com/DongKaicheng/one-complex-metric-ai-development/releases/download/paper-v2026-11-06/One_Complex_Metric_and_Geometric_Adelic_Nefness.pdf)
+- [Editable LaTeX source](https://github.com/DongKaicheng/one-complex-metric-ai-development/releases/download/paper-v2026-11-06/One_Complex_Metric_LaTeX_20261106.zip)
+- [Paper release dated 6 November 2026](https://github.com/DongKaicheng/one-complex-metric-ai-development/releases/tag/paper-v2026-11-06)
+
+This is the author's revised paper edition with the acknowledgements and AI-use disclosure after the Introduction. The earlier source snapshots inside the frozen AI-development archive below are preserved unchanged.
+
 ## Files
 
 - [English AI-assisted development report](AI_Assisted_Development_Report_EN.pdf):
@@ -17,7 +27,7 @@ selected archive of the retained mathematical work.
   with a matching rebuilt PDF.
 
 The archive includes a separate suggested AI-use disclosure paragraph
-for author review. The reference manuscript has not been changed.
+for author review. The reference manuscript inside the frozen archive has not been changed; the revised paper edition is linked separately above.
 
 The ZIP is preserved as the frozen pre-upload snapshot. Any preparation
 status inside it describes that snapshot; this repository's commit and
